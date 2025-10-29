@@ -4,7 +4,7 @@ My name is Priya Aswani. I work at Microsoft in the Machine Learning Space.
 
 I have had experience as a Data Science Architect working on Reinforcement Learning projects applied to horizontal drilling, computer vision modeling applied to decoking extraction, crack spread forecasting, predictive maintenance and remote monitoring solutions applied in Manufacturing.
 
-Now-a-days I work on GenAI LLMs having released 3 copilots at Microsoft for Co-Analyst, [Science Engine Copilot](https://www.microsoft.com/en-us/research/project/project-s/?msockid=165c50546016693028c9458864166bdf) and [Partner Center Co-pilot](https://learn.microsoft.com/en-us/partner-center/enroll/ai-assistant-overview). I was an AI Architect and then an IoT Architect, until I found the nexus of all 3 fields in Mixed Reality.
+Now-a-days I work on GenAI LLMs having released 3 copilots at Microsoft for Co-Analyst, [Science Engine Copilot](https://www.microsoft.com/en-us/research/project/project-s/?msockid=165c50546016693028c9458864166bdf) and [Partner Center Co-pilot](https://learn.microsoft.com/en-us/partner-center/enroll/ai-assistant-overview). I was an AI Architect and then an IoT Architect, until I found the nexus of all 3 fields (AI, IoT and Robotics) in Mixed Reality.
 
 Core Skills:
 Machine Learning, DNN, CNN, RL, MLOps, LLMOps, Statistics, Simulation & Synthetics, Robotics, Mixed Reality, Unreal Engine, NVIDIA Omniverse, Cloud Infrastructure, AI systems, Game Engine Archtecture, Performance Optimization, Data Pipelines, Synthetic Dataset Generation.
