@@ -7,7 +7,7 @@ I have had experience as a Data Science Architect working on Reinforcement Learn
 Now-a-days I work on GenAI LLMs having released 3 copilots at Microsoft for Co-Analyst, [Science Engine Copilot](https://www.microsoft.com/en-us/research/project/project-s/?msockid=165c50546016693028c9458864166bdf) and [Partner Center Co-pilot](https://learn.microsoft.com/en-us/partner-center/enroll/ai-assistant-overview). I was an AI Architect and then an IoT Architect, until I found the nexus of all 3 fields (AI, IoT and Robotics) in Mixed Reality.
 
 Core Skills:
-Machine Learning, DNN, CNN, RL, MLOps, LLMOps, Statistics, Simulation & Synthetics, Robotics, Mixed Reality, Unreal Engine, NVIDIA Omniverse, Cloud Infrastructure, AI systems, Game Engine Archtecture, Performance Optimization, Data Pipelines, Synthetic Dataset Generation.
+Agents, A2A, MCP, GraphRAG, Machine Learning, DNN, CNN, RL, MLOps, LLMOps, Statistics, Simulation & Synthetics, Robotics, Mixed Reality, Unreal Engine, NVIDIA Omniverse, Cloud Infrastructure, AI systems, Game Engine Archtecture, Performance Optimization, Data Pipelines, Synthetic Dataset Generation.
 
 I graduated to a Primcipal SWE in the Mixed Reality Environmental Understanding Data Team where I worked on Data Science informing the investments in Mixed Reality. My work bridged high - performance simulation, robotics, AI and game engine technology to accelerate Mixed Reality and robitics research through synthetic datasets and parallelized compute pipelines.
 
